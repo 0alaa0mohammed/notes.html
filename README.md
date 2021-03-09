@@ -2,7 +2,7 @@
 <h1><strong>My html notes
 <em>mark up!</em><br>
 My <sub>name is alaa<sub>
-<p>sport clothes</p>
+<p>sport<sop>clothes</p>
 <sup>More time<sup>
 My life
 <br><mark><em>I am going to the mall</em></mark><br>
