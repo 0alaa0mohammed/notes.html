@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1><strong>My html notes
 <em>mark up!</em><br>
 My <sub>name is alaa<sub>
